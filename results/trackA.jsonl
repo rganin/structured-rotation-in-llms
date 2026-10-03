@@ -1,0 +1,23 @@
+{"tag": "smoke", "ffn": "dense", "hidden": 1408, "params": 45005824, "non_emb": 19274240, "tokens": 1998848, "val": 6.433709049224854, "seed": 0, "lr": 0.001, "wall_s": 78.1143491268158}
+{"tag": "sm_quat_1408", "ffn": "quat", "hidden": 1408, "params": 35273728, "non_emb": 9542144, "tokens": 491520, "val": 8.373908996582031, "seed": 0, "lr": 0.001, "wall_s": 21.18023920059204}
+{"tag": "sm_dense_352", "ffn": "dense", "hidden": 352, "params": 35273728, "non_emb": 9542144, "tokens": 491520, "val": 8.38474998474121, "seed": 0, "lr": 0.001, "wall_s": 19.583980083465576}
+{"tag": "sm_quat_5632", "ffn": "quat", "hidden": 5632, "params": 45005824, "non_emb": 19274240, "tokens": 491520, "val": 8.359441947937011, "seed": 0, "lr": 0.001, "wall_s": 26.34911799430847}
+{"tag": "sm_lowrank_1408", "ffn": "lowrank", "hidden": 1408, "params": 35278336, "non_emb": 9546752, "tokens": 491520, "val": 8.400828742980957, "seed": 0, "lr": 0.001, "wall_s": 20.510128021240234}
+{"tag": "A0", "ffn": "dense", "hidden": 1408, "params": 45005824, "non_emb": 19274240, "tokens": 29982720, "val": 4.404027032852173, "seed": 0, "lr": 0.001, "wall_s": 1120.3140058517456}
+{"tag": "A1", "ffn": "quat", "hidden": 1408, "params": 35273728, "non_emb": 9542144, "tokens": 29982720, "val": 4.553318023681641, "seed": 0, "lr": 0.001, "wall_s": 1127.640653371811}
+{"tag": "A2", "ffn": "dense", "hidden": 352, "params": 35273728, "non_emb": 9542144, "tokens": 29982720, "val": 4.560924911499024, "seed": 0, "lr": 0.001, "wall_s": 1076.161945104599}
+{"tag": "A3", "ffn": "lowrank", "hidden": 1408, "params": 35278336, "non_emb": 9546752, "tokens": 29982720, "val": 4.632419538497925, "seed": 0, "lr": 0.001, "wall_s": 1118.4252831935883}
+{"tag": "A6", "ffn": "quat", "hidden": 5632, "params": 45005824, "non_emb": 19274240, "tokens": 29982720, "val": 4.3636571884155275, "seed": 0, "lr": 0.001, "wall_s": 1373.3573060035706}
+{"tag": "A1", "ffn": "quat", "hidden": 1408, "params": 35273728, "non_emb": 9542144, "tokens": 29982720, "val": 4.477633285522461, "seed": 1, "lr": 0.001, "wall_s": 1128.9164459705353}
+{"tag": "A2", "ffn": "dense", "hidden": 352, "params": 35273728, "non_emb": 9542144, "tokens": 29982720, "val": 4.586553430557251, "seed": 1, "lr": 0.001, "wall_s": 1078.2659089565277}
+{"tag": "A1", "ffn": "quat", "hidden": 1408, "params": 35273728, "non_emb": 9542144, "tokens": 29982720, "val": 4.525348949432373, "seed": 2, "lr": 0.001, "wall_s": 1128.95369887352}
+{"tag": "A2", "ffn": "dense", "hidden": 352, "params": 35273728, "non_emb": 9542144, "tokens": 29982720, "val": 4.579743146896362, "seed": 2, "lr": 0.001, "wall_s": 1077.3838260173798}
+{"tag": "sm_attnquat", "ffn": "dense", "attn_kind": "quat", "hidden": 1408, "params": 40287232, "non_emb": 14555648, "tokens": 983040, "val": 8.341292381286621, "seed": 0, "lr": 0.001, "wall_s": 39.414873123168945}
+{"tag": "attn_quat_h1408", "ffn": "dense", "attn_kind": "quat", "hidden": 1408, "params": 40287232, "non_emb": 14555648, "tokens": 29982720, "val": 4.496788740158081, "seed": 0, "lr": 0.001, "wall_s": 1130.5383710861206}
+{"tag": "attn_quat_iso", "ffn": "dense", "attn_kind": "quat", "hidden": 1920, "params": 45005824, "non_emb": 19274240, "tokens": 29982720, "val": 4.425600004196167, "seed": 0, "lr": 0.001, "wall_s": 1155.3957133293152}
+{"tag": "full_quat_h1408", "ffn": "quat", "attn_kind": "quat", "hidden": 1408, "params": 30555136, "non_emb": 4823552, "tokens": 29982720, "val": 4.549609184265137, "seed": 0, "lr": 0.001, "wall_s": 1135.519376039505}
+{"tag": "full_quat_iso", "ffn": "quat", "attn_kind": "quat", "hidden": 7680, "params": 45005824, "non_emb": 19274240, "tokens": 29982720, "val": 4.321071314811706, "seed": 0, "lr": 0.001, "wall_s": 1445.381507396698}
+{"tag": "A0", "ffn": "dense", "attn_kind": "dense", "hidden": 1408, "params": 45005824, "non_emb": 19274240, "tokens": 29982720, "val": 4.46011757850647, "seed": 1, "lr": 0.001, "wall_s": 1129.5491480827332}
+{"tag": "A0", "ffn": "dense", "attn_kind": "dense", "hidden": 1408, "params": 45005824, "non_emb": 19274240, "tokens": 29982720, "val": 4.470569515228272, "seed": 2, "lr": 0.001, "wall_s": 1129.203138589859}
+{"tag": "full_quat_iso", "ffn": "quat", "attn_kind": "quat", "hidden": 7680, "params": 45005824, "non_emb": 19274240, "tokens": 29982720, "val": 4.349681234359741, "seed": 1, "lr": 0.001, "wall_s": 1445.4738879203796}
+{"tag": "full_quat_iso", "ffn": "quat", "attn_kind": "quat", "hidden": 7680, "params": 45005824, "non_emb": 19274240, "tokens": 29982720, "val": 4.3284523487091064, "seed": 2, "lr": 0.001, "wall_s": 1444.406887769699}

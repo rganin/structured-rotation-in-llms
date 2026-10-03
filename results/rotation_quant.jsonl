@@ -1,0 +1,7 @@
+{"model": "Qwen/Qwen3-0.6B", "method": "fp16", "ppl": 23.04803938309132}
+{"model": "Qwen/Qwen3-0.6B", "method": "w4a16", "ppl": 32.46338940260031}
+{"model": "Qwen/Qwen3-0.6B", "method": "w4a4", "ppl": 146349.70828820422}
+{"model": "Qwen/Qwen3-0.6B", "method": "w4a4_had", "ppl": 63.02431625403577}
+{"model": "Qwen/Qwen3-0.6B", "method": "w4a4_rand", "ppl": 81.4377355369145}
+{"model": "Qwen/Qwen3-0.6B", "method": "w4a4_learn", "ppl": 1158.2599041260335, "steps": 100}
+{"model": "Qwen/Qwen3-0.6B", "method": "w4a4_qb", "ppl": 68.34558509096247, "steps": 200}

@@ -1,0 +1,27 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.egg-info/
+.eggs/
+build/
+dist/
+.venv/
+venv/
+env/
+.mypy_cache/
+.ruff_cache/
+.pytest_cache/
+.ipynb_checkpoints/
+
+# Large artifacts / data (regenerate from scripts)
+data/
+checkpoints/
+*.pt
+*.pth
+*.safetensors
+*.ckpt
+
+# Experiment outputs that are regenerable scratch
+*.log
+*.tmp

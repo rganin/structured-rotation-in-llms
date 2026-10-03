@@ -1,0 +1,14 @@
+{"tag": "sm_attn", "mixer": "attn", "hidden": 1408, "non_emb": 19274240, "tokens": 999424, "val": 7.282399320602417, "seed": 0, "wall_s": 37.974432706832886}
+{"tag": "sm_scalar", "mixer": "scalar", "hidden": 1236, "non_emb": 17713712, "tokens": 999424, "val": NaN, "seed": 0, "wall_s": 41.04970407485962}
+{"tag": "sm_quat", "mixer": "quat", "hidden": 1068, "non_emb": 17741360, "tokens": 999424, "val": NaN, "seed": 0, "wall_s": 157.4524359703064}
+{"tag": "sm2_attn", "mixer": "attn", "hidden": 1408, "non_emb": 19274240, "tokens": 1490944, "val": 6.762060022354126, "seed": 0, "wall_s": 100.81064581871033}
+{"tag": "sm2_scalar", "mixer": "scalar", "hidden": 1404, "non_emb": 19262000, "tokens": 1490944, "val": 6.504056310653686, "seed": 0, "wall_s": 65.7104139328003}
+{"tag": "sm2_complex", "mixer": "complex", "hidden": 1320, "non_emb": 19274288, "tokens": 1490944, "val": 6.534637832641602, "seed": 0, "wall_s": 119.2233715057373}
+{"tag": "sm2_quat", "mixer": "quat", "hidden": 1236, "non_emb": 19289648, "tokens": 1490944, "val": 6.503312778472901, "seed": 0, "wall_s": 234.68892526626587}
+{"tag": "sm2_fixed", "mixer": "fixed", "hidden": 1404, "non_emb": 19265072, "tokens": 1490944, "val": 6.544470310211182, "seed": 0, "wall_s": 200.84917044639587}
+{"tag": "B_scalar", "mixer": "scalar", "hidden": 1404, "non_emb": 19262000, "tokens": 19988480, "val": 4.5644032001495365, "seed": 0, "wall_s": 870.4952938556671}
+{"tag": "B_attn", "mixer": "attn", "hidden": 1408, "non_emb": 19274240, "tokens": 19988480, "val": 4.616830921173095, "seed": 0, "wall_s": 728.104912519455}
+{"tag": "B_complex", "mixer": "complex", "hidden": 1320, "non_emb": 19274288, "tokens": 19988480, "val": 4.638407850265503, "seed": 0, "wall_s": 984.9681851863861}
+{"tag": "B_quat", "mixer": "quat", "hidden": 1236, "non_emb": 19289648, "tokens": 19988480, "val": 4.597984027862549, "seed": 0, "wall_s": 2735.618290901184}
+{"tag": "B_scalar", "mixer": "scalar", "hidden": 1404, "non_emb": 19262000, "tokens": 19988480, "val": 4.584095621109009, "seed": 1, "wall_s": 851.8159353733063}
+{"tag": "B_quat", "mixer": "quat", "hidden": 1236, "non_emb": 19289648, "tokens": 19988480, "val": 4.5298796653747555, "seed": 1, "wall_s": 2758.119973897934}
